@@ -35,14 +35,7 @@ sidebar:
         - idiom: English
           level: Native
 
-    interests:
-      title: Interests
-      info:
-        - item: Programming
-          link:
-
-        - item: Gaming
-          link:
+    interests: False
 
 career-profile:
     title: Profile
