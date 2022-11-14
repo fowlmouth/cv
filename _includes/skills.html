@@ -22,6 +22,10 @@
         </div>
       </div><!--//level-bar-->
 
+      {% if skill.details %}
+      <p class="level-details">{{ skill.details }}</p>
+      {% endif %}
+
     </div><!--//item-->
     {% endfor %}
 
