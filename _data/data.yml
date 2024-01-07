@@ -3,6 +3,7 @@
 #
 
 sidebar:
+    position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -14,7 +15,7 @@ sidebar:
     # Sidebar links
     email: tim.eichholz.for.hire@gmail.com
     phone: +13133800221
-    timezone: America/Central Timezone
+    timezone: America/Eastern Timezone
     citizenship: USA
     website: # blog.webjeda.com #do not add http://
     linkedin: tim-eichholz
