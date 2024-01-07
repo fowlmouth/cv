@@ -41,19 +41,31 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Architecture-oriented programmer with extensive experience in
-      applied program design. Familiar with multiple languages and
-      able to quickly become familiar with new programming contexts.
-      Seeking a position where I can effectively apply and expand my
-      knowledge-base while making significant contributions to
-      operational requirements.
+      Results-driven DevOps Engineer with over 6 years of experience in designing, building, and maintaining cloud infrastructures.
+      Proficient in AWS, Terraform, Kubernetes, and DataDog, with a strong background in software development and a proven track record
+      of supporting both legacy and greenfield projects. Adept at working in cross-functional teams and skilled in agile methodologies,
+      ensuring the efficient delivery of high-quality software solutions. Committed to continuous improvement, I am eager to contribute
+      to the success of your organization by leveraging my expertise in infrastructure management and deployment.
 
 experiences:
     title: Experiences
     info:
+      - role: Principal DevOps Engineer
+        time: Nov 2023 - Present
+        company: Trextel, Atlanta, GA (Remote)
+        details: |
+          Responsible for managing and improving the cloud infrastructure using **AWS**, **Terraform**, **Kubernetes**, and **DataDog**. My expertise in both legacy and greenfield projects has enabled me to provide reliable support and drive the design of innovative deployments.
+            * Supported and maintained the legacy environment, ensuring smooth functioning and minimal downtime
+            * Designed and executed the deployment process for various greenfield projects, improving scalability and maintainability
+            * Streamlined infrastructure management using **Terraform** to automate and orchestrate AWS resources
+            * Optimized and managed **Kubernetes** clusters for container orchestration and efficient workload distribution
+            * Utilized **DataDog** for monitoring, alerting, and diagnosing issues, enabling quick response and issue resolution
+            * Collaborated effectively with cross-functional teams to ensure seamless integration of infrastructure components
+            * Participated in agile development cycles, contributing to sprint planning, daily stand-ups, and retrospectives (**Jira**, **Slack**, **Google Docs**)
+
       - role: Principal Systems Engineer
-        time: 2019 - 2022
-        company: FeatherPay, Atlanta, GA
+        time: Feb 2019 - Nov 2022
+        company: FeatherPay, Atlanta, GA (Remote)
         details: |
           As the sole DevOps / Infrastructure engineer for a 5-person engineering organization, I was responsible for designing, building and maintaining our cloud infrastructure on **AWS** including **EKS Kubernetes** clusters and many AWS resources spanning multiple accounts and networks.
             * Executed a major project to get **Terraform** coverage of our many resources in AWS
@@ -64,7 +76,7 @@ experiences:
             * Worked in two-week sprints (**Jira**, **Slack**, **Google Docs**)
 
       - role: Software Developer
-        time: 2017 - 2018
+        time: Jan 2017 - Dec 2018
         company: StrongAI, Atlanta, GA
         details: |
           * Worked on **C++** implementation of StrongAI’s database architecture
