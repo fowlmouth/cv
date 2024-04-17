@@ -51,7 +51,7 @@ experiences:
     title: Experiences
     info:
       - role: Principal DevOps Engineer
-        time: Nov 2023 - Present
+        time: Nov 2022 - Present
         company: Trextel, Atlanta, GA (Remote)
         details: |
           Responsible for managing and improving the cloud infrastructure using **AWS**, **Terraform**, **Kubernetes**, and **DataDog**. My expertise in both legacy and greenfield projects has enabled me to provide reliable support and drive the design of innovative deployments.
